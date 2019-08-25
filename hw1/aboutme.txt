@@ -1,0 +1,11 @@
+name		Hangyuanxu
+ID		011444264
+major		CS
+email		729723414@qq.com	
+		undergraduate
+		yes
+		SJSU
+		CS46A A
+		CS46B B+
+		CS146 D+
+		NO
